@@ -15,7 +15,7 @@ npm start
 npm run build
 ```
 
-## [Lifecycle 点击进入我的博客详细介绍](http://www.jianshu.com/p/e9f884b6ba6c)
+## 
 ![image](https://raw.githubusercontent.com/allan2coder/VUE2-SPA-Tutorial/master/screenShot/lifecycle.png)
 
 
@@ -113,6 +113,11 @@ background: url(../assets/img/icon.png);
 right:
 background: url(./../assets/img/icon.png);
 ```
+
+## axios
+1、开发时的跨域用proxyTable解决，具体看config/index.js
+
+
 
 # Reference Articles
 * [Vue-Router](http://router.vuejs.org/zh-cn/essentials/getting-started.html)
